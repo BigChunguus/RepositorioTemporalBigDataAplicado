@@ -3,7 +3,7 @@
 
 Este proyecto documenta el proceso de configuración de un entorno de monitoreo para un clúster EMR de AWS utilizando **JMX Exporter**, **Prometheus** y **Grafana**. El objetivo es visualizar métricas relevantes del clúster en tiempo real y optimizar el rendimiento de los servicios distribuidos.
 
-## 🧰 Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 - **AWS EMR** (Elastic MapReduce)  
 - **Apache Hadoop, Spark, Hive**  
@@ -13,7 +13,7 @@ Este proyecto documenta el proceso de configuración de un entorno de monitoreo 
 
 ---
 
-## 📌 Estructura del Proyecto
+## Estructura del Proyecto
 
 ### 1. Configuración del Clúster EMR
 - Creación del clúster con Hadoop, Spark y Hive.
@@ -40,7 +40,7 @@ Este proyecto documenta el proceso de configuración de un entorno de monitoreo 
 
 ---
 
-## 🧠 Reflexión
+## Reflexión
 
 ### Métricas clave para EMR
 - Uso de CPU, RAM, disco y red.
@@ -60,6 +60,6 @@ Este proyecto documenta el proceso de configuración de un entorno de monitoreo 
 
 ---
 
-## 🚀 Conclusión
+## Conclusión
 
 Prometheus y Grafana ofrecen una solución robusta, económica y flexible para monitorear clústeres EMR, facilitando la toma de decisiones basada en datos en tiempo real.
